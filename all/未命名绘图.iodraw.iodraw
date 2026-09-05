@@ -35,10 +35,10 @@
           <mxGeometry x="450" y="180" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HRwdG3Rq7jOdoM8fmoXE-23" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Go&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="299" y="420" width="140" height="60" as="geometry" />
+          <mxGeometry x="300" y="410" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HRwdG3Rq7jOdoM8fmoXE-24" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Go&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="450" y="420" width="140" height="60" as="geometry" />
+          <mxGeometry x="450" y="410" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
