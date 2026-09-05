@@ -34,8 +34,8 @@
         <mxCell id="HRwdG3Rq7jOdoM8fmoXE-19" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Vue&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e1d5e7;strokeColor=#9673a6;direction=south;" vertex="1" parent="1">
           <mxGeometry x="58" y="200" width="79" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HRwdG3Rq7jOdoM8fmoXE-20" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Flutter&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="360" y="210" width="82" height="60" as="geometry" />
+        <mxCell id="HRwdG3Rq7jOdoM8fmoXE-20" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Go&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="82" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
