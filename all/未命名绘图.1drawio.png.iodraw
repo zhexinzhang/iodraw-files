@@ -13,11 +13,14 @@
         <mxCell id="EooyAm-K5MN1E_Ym5Iyd-4" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;脑部结构数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="1810" y="90" width="260" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EooyAm-K5MN1E_Ym5Iyd-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="EooyAm-K5MN1E_Ym5Iyd-5" target="EooyAm-K5MN1E_Ym5Iyd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EooyAm-K5MN1E_Ym5Iyd-5" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;SimNIBS电场仿真&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="1810" y="190" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EooyAm-K5MN1E_Ym5Iyd-6" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;脑部结构数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="1810" y="370" width="260" height="60" as="geometry" />
+          <mxGeometry x="1808" y="310" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EooyAm-K5MN1E_Ym5Iyd-7" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;脑部结构数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="1820" y="500" width="260" height="60" as="geometry" />
