@@ -70,12 +70,6 @@
             <mxPoint x="2470" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ANVJsXcKroSsX352OSEi-34" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2860" y="480" as="sourcePoint" />
-            <mxPoint x="2910" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
