@@ -25,9 +25,6 @@
         <mxCell id="ZpdYFUmLVmn3plLpH4A5-7" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;传统方式&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="620" y="374" width="177" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZpdYFUmLVmn3plLpH4A5-8" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;传统方式&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="356" y="477" width="177" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ZpdYFUmLVmn3plLpH4A5-9" value="&lt;span style=&quot;white-space: pre;&quot; data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMnRleHRBbGlnbiUyMiUzQSUyMkxFRlQlMjIlMkMlMjJjaGlsZHJlbiUyMiUzQSU1QiU3QiUyMnRleHQlMjIlM0ElMjIlRTYlQjclQjElRTUlQkElQTYlRTUlQUQlQTYlRTQlQjklQTAlRTQlQkIlQTMlRTclOTAlODYlRTYlQTglQTElRTUlOUUlOEIlMjIlMkMlMjJib2xkJTIyJTNBdHJ1ZSUyQyUyMml0YWxpYyUyMiUzQWZhbHNlJTJDJTIydW5kZXJsaW5lJTIyJTNBZmFsc2UlMkMlMjJzdHJpa2V0aHJvdWdoJTIyJTNBZmFsc2UlMkMlMjJjb2xvciUyMiUzQSU3QiUyMnR5cGUlMjIlM0ElMjJTT0xJRCUyMiUyQyUyMmNvbG9yJTIyJTNBJTdCJTIyciUyMiUzQTEwJTJDJTIyZyUyMiUzQTMxJTJDJTIyYiUyMiUzQTYxJTJDJTIyYSUyMiUzQTI1NSUyQyUyMnJvZmZpY2VfdmFsJTIyJTNBMTAlMkMlMjJnb2ZmaWNlX3ZhbCUyMiUzQTMxJTJDJTIyYm9mZmljZV92YWwlMjIlM0E2MSU3RCUyQyUyMnVzZXJfcGljJTIyJTNBZmFsc2UlN0QlMkMlMjJfY29sb3JTdHlsZSUyMiUzQSUyMnJnYmEoMTAlMkMzMSUyQzYxJTJDMSklMjIlMkMlMjJmb250U2l6ZSUyMiUzQTE5JTJDJTIyZm9udEZhbWlseSUyMiUzQSUyMkZaU2h1U29uZy1aMDElMjIlN0QlNUQlN0QlNUQ=&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;深度学习代理模型&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="230" y="243" width="136" height="60" as="geometry" />
         </mxCell>
@@ -38,7 +35,10 @@
           <mxGeometry x="79" y="408" width="61" height="121" as="geometry" />
         </mxCell>
         <mxCell id="ZpdYFUmLVmn3plLpH4A5-15" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;高&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;精&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;度&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="89" y="418" width="61" height="121" as="geometry" />
+          <mxGeometry x="158" y="408" width="61" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpdYFUmLVmn3plLpH4A5-16" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;个性化建模&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="89" y="337" width="137" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
