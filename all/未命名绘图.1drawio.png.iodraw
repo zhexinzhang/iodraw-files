@@ -107,7 +107,7 @@
           <mxGeometry x="1715" y="190" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wu5ywc5QJAHtNaAw251d-55" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;ESP32-S3&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1935" y="190" width="170" height="60" as="geometry" />
+          <mxGeometry x="1930" y="190" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wu5ywc5QJAHtNaAw251d-56" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wu5ywc5QJAHtNaAw251d-40" target="wu5ywc5QJAHtNaAw251d-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -131,10 +131,10 @@
           <mxGeometry x="1804" y="260" width="85" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wu5ywc5QJAHtNaAw251d-62" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;环境&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;信息&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;采集&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1934" y="260" width="65" height="100" as="geometry" />
+          <mxGeometry x="1930" y="260" width="65" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wu5ywc5QJAHtNaAw251d-63" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;鱼线&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;拉力&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;检测&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2010" y="260" width="65" height="100" as="geometry" />
+          <mxGeometry x="2040" y="260" width="65" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
