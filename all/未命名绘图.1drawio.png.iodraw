@@ -34,7 +34,7 @@
         <mxCell id="iR_IJsVIrqfuYDynD7MS-9" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;智能体决策&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1795" y="340" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iR_IJsVIrqfuYDynD7MS-12" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;智能体决策&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="iR_IJsVIrqfuYDynD7MS-12" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;发帖互动&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1795" y="430" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iR_IJsVIrqfuYDynD7MS-14" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0;exitY=0.403;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iR_IJsVIrqfuYDynD7MS-12" target="iR_IJsVIrqfuYDynD7MS-4">
@@ -43,6 +43,7 @@
             <mxPoint x="1720" y="260" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1760" y="454" />
+              <mxPoint x="1760" y="195" />
             </Array>
           </mxGeometry>
         </mxCell>
