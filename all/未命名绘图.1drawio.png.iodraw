@@ -124,9 +124,6 @@
             <mxPoint x="2260" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wu5ywc5QJAHtNaAw251d-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="wu5ywc5QJAHtNaAw251d-82" target="wu5ywc5QJAHtNaAw251d-86">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="wu5ywc5QJAHtNaAw251d-82" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;开始垂钓&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2075" y="410" width="170" height="60" as="geometry" />
         </mxCell>
@@ -153,14 +150,11 @@
         <mxCell id="wu5ywc5QJAHtNaAw251d-85" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;告警！&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e8524a;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2346" y="410" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wu5ywc5QJAHtNaAw251d-86" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;垂钓结束&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2075" y="500" width="170" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="wu5ywc5QJAHtNaAw251d-89" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;感知层&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1854" y="585" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wu5ywc5QJAHtNaAw251d-90" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;应用层&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2308.5" y="110" width="170" height="60" as="geometry" />
+          <mxGeometry x="2298.5" y="610" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
