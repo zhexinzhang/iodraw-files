@@ -8,7 +8,7 @@
           <mxGeometry x="2360" y="170" width="480" height="268" as="geometry" />
         </mxCell>
         <mxCell id="wu5ywc5QJAHtNaAw251d-2" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;“”知渊“垂钓生态&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="230" width="480" height="50" as="geometry" />
+          <mxGeometry x="1730" y="230" width="540" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wu5ywc5QJAHtNaAw251d-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;感知层&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1730" y="290" width="120" height="60" as="geometry" />
@@ -23,10 +23,22 @@
           <mxGeometry x="2008" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wu5ywc5QJAHtNaAw251d-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;感知层&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2180" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="2150" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wu5ywc5QJAHtNaAw251d-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;鱼漂终端&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1800" y="360" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wu5ywc5QJAHtNaAw251d-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;鱼竿&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;终端&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="370" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wu5ywc5QJAHtNaAw251d-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;鱼竿&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;终端&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="380" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wu5ywc5QJAHtNaAw251d-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;鱼竿&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;终端&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="390" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wu5ywc5QJAHtNaAw251d-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;鱼竿&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;终端&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="400" width="50" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
