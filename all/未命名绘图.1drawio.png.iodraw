@@ -163,6 +163,12 @@
         <mxCell id="wu5ywc5QJAHtNaAw251d-77" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;设备信息&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2636" y="265" width="52.5" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="wu5ywc5QJAHtNaAw251d-78" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wu5ywc5QJAHtNaAw251d-46" target="wu5ywc5QJAHtNaAw251d-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2240" y="410" as="sourcePoint" />
+            <mxPoint x="2290" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
