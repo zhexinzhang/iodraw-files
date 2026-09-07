@@ -25,7 +25,7 @@
         <mxCell id="wu5ywc5QJAHtNaAw251d-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;感知层&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2160" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wu5ywc5QJAHtNaAw251d-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;鱼竿&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;终端&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="wu5ywc5QJAHtNaAw251d-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;鱼漂终端&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1800" y="360" width="50" height="110" as="geometry" />
         </mxCell>
       </root>
