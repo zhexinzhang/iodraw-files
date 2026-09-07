@@ -146,10 +146,10 @@
           <mxGeometry x="1962.5" y="270" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wu5ywc5QJAHtNaAw251d-71" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;“”渔小瞻“”智能体&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2367.5" y="190" width="255" height="60" as="geometry" />
+          <mxGeometry x="2350" y="190" width="255" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wu5ywc5QJAHtNaAw251d-72" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;安全水域监测&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2140" y="190" width="175" height="60" as="geometry" />
+          <mxGeometry x="2155" y="190" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wu5ywc5QJAHtNaAw251d-73" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;天气&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;查询&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2368.5" y="265" width="52.5" height="110" as="geometry" />
