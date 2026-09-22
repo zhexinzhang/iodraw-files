@@ -1,81 +1,9 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0" version="24.7.17">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="3o10LcJOjE7YmZxKp0gn">
-    <mxGraphModel dx="1554" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HRwdG3Rq7jOdoM8fmoXE-1" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="290" y="50" width="310" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="HRwdG3Rq7jOdoM8fmoXE-2" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;用户端&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="397.5" y="60" width="95" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HRwdG3Rq7jOdoM8fmoXE-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="HRwdG3Rq7jOdoM8fmoXE-3" target="HRwdG3Rq7jOdoM8fmoXE-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HRwdG3Rq7jOdoM8fmoXE-3" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Flutter&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="450" y="100" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HRwdG3Rq7jOdoM8fmoXE-16" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="290" y="290" width="310" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="HRwdG3Rq7jOdoM8fmoXE-17" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;服务端&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="397.5" y="300" width="95" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HRwdG3Rq7jOdoM8fmoXE-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="HRwdG3Rq7jOdoM8fmoXE-18" target="HRwdG3Rq7jOdoM8fmoXE-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HRwdG3Rq7jOdoM8fmoXE-18" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Flask&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="450" y="340" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HRwdG3Rq7jOdoM8fmoXE-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="HRwdG3Rq7jOdoM8fmoXE-19" target="HRwdG3Rq7jOdoM8fmoXE-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HRwdG3Rq7jOdoM8fmoXE-19" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Vue&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e1d5e7;strokeColor=#9673a6;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="299" y="100" width="141" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HRwdG3Rq7jOdoM8fmoXE-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="HRwdG3Rq7jOdoM8fmoXE-20" target="HRwdG3Rq7jOdoM8fmoXE-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HRwdG3Rq7jOdoM8fmoXE-20" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Go&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="300" y="340" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HRwdG3Rq7jOdoM8fmoXE-21" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;渔业数据大屏&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e1d5e7;strokeColor=#9673a6;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="299" y="180" width="141" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HRwdG3Rq7jOdoM8fmoXE-22" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;垂钓交流社区&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e1d5e7;strokeColor=#9673a6;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="450" y="180" width="141" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HRwdG3Rq7jOdoM8fmoXE-23" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;工具函数实现&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="300" y="415" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HRwdG3Rq7jOdoM8fmoXE-24" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;agent及YOLO模型部署&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="450" y="415" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HRwdG3Rq7jOdoM8fmoXE-30" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="290" y="530" width="310" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="HRwdG3Rq7jOdoM8fmoXE-31" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;设备端&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="397.5" y="540" width="95" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HRwdG3Rq7jOdoM8fmoXE-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="HRwdG3Rq7jOdoM8fmoXE-33" target="HRwdG3Rq7jOdoM8fmoXE-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HRwdG3Rq7jOdoM8fmoXE-33" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;树莓派5B&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="450" y="580" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HRwdG3Rq7jOdoM8fmoXE-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="HRwdG3Rq7jOdoM8fmoXE-35" target="HRwdG3Rq7jOdoM8fmoXE-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HRwdG3Rq7jOdoM8fmoXE-35" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;ESP32S3&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="300" y="580" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HRwdG3Rq7jOdoM8fmoXE-36" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;信息采集与处理&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="300" y="655" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HRwdG3Rq7jOdoM8fmoXE-37" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;边缘计算终端&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="450" y="655" width="140" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
